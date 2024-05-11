@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527196583952",
+    "project_id": "anthenaguard",
+    "storage_bucket": "anthenaguard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527196583952:android:6c4de60a6812851d917295",
+        "android_client_info": {
+          "package_name": "com.example.anthenaguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvf7N-fVtFHWCr2Ir8uMUhoakkAsbm78E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
